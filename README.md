@@ -1,2 +1,2 @@
 # SQL
-##### ✅Codeit Study
+##### ✅ Codeit Study
